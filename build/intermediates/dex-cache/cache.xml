@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_6e5f3aaa63b984706c0b6a2518388aa7cff1bfc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -48,6 +57,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7d366254a7a29a34ecc6106f29c3e85ec9eb6d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -75,12 +93,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_53cf9b27912325361351c01f56d96fc356a8d59c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="abf3d4ca86ffac2b80b1ee6b8f8cc987ab2c694a">
+        sha1="02785d4ad868a33978f89428b2333ad8ddceafa6">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bfb3feefad82b3e84cd75d36cdc1611203cd767d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_7e7c8cdd7443744953a54622c46f2d08382ae2b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_9128811d215ff564cb7a4b69d95805e52ca4142a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -90,6 +135,15 @@
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6b635a062f9816362a9203bb8bdbba044c665e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_41a787cf7e5988d36256b6957e41ca20c95b4eb3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,6 +201,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_a7b87d42232973395b4bcf7806458e7dabf4bcfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_6940f529d41a4c6a05100a753f64470dfd92b1fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -162,6 +234,15 @@
         revision="24.0.3"
         sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_3331982c2a6a46effd1277bc8de3cbd09c7fff2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_1d35740bf6af2b3bb73f7b050d21bc88d25dbcfa/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,11 +264,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7bfbb79231c5d9c4e2e7b4be202fb09aa67f407e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a51105ee94dbf17108e2c1e51c51601919e20c1f">
+        sha1="da66612c762ab4efa833c530821bda83168f528b">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eebf12888e90e70c7e3b659041a3df3e54cc37c2/classes.dex" />
     </item>
     <item
@@ -201,12 +291,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_171f42c0c4b6d71bdd810686d0c642985d12c063/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b4d394cd40473b990f2c7f49b41b637e2d216df6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ae6e6cd9c16aa655c0510e4fdbefe58ca9a78152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_9ef1c771bc42948b9117fa5df65eb3445b880c7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_0c1067a3475d9edf03680d458cb402a2c6cd4b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_054226dfb645ad2e6e412eaf4fc9d71e2a353781/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,6 +363,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1c81fb7600d57bab8d62721cd09dbc43829366e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -243,6 +387,24 @@
         revision="24.0.3"
         sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_b9da33d5c3ca4f28d11725334b9849ddffce4653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_3a883fb7ed83bd442f379340cc02efaa361f5633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_a6024506543e66d1c881d4573b350f6b4cb42948/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -291,249 +453,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0b0ab17ff79d9f57156c8858cd24b3233c58a5e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_fce7f5dfe247b060a0d8f5454a97ecacfa2b1f32/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_a2c0e8a38699ab0a6b534a4ca163f6c95a34bc11/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_84d1ea10cfde3fc5ff9d20622971da5f6fc3c91a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_e3d5ee45f13ed608cb021a394a2e0ca87b99474a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_45647558b971ff0770d2039dd686bdb58bebb8ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_89863771bf6539dc1fa14ba4190bf62e84f5892b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_9211af6f2f845058ea1ef3a48146cdd81bcfe37d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_2996e3241ac53bd398fe12b691d17d7cf283b4eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_6e5f3aaa63b984706c0b6a2518388aa7cff1bfc1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7d366254a7a29a34ecc6106f29c3e85ec9eb6d32/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_53cf9b27912325361351c01f56d96fc356a8d59c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_7e7c8cdd7443744953a54622c46f2d08382ae2b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_9128811d215ff564cb7a4b69d95805e52ca4142a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_41a787cf7e5988d36256b6957e41ca20c95b4eb3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_a7b87d42232973395b4bcf7806458e7dabf4bcfe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_6940f529d41a4c6a05100a753f64470dfd92b1fd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_1d35740bf6af2b3bb73f7b050d21bc88d25dbcfa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7bfbb79231c5d9c4e2e7b4be202fb09aa67f407e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_171f42c0c4b6d71bdd810686d0c642985d12c063/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ae6e6cd9c16aa655c0510e4fdbefe58ca9a78152/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_9ef1c771bc42948b9117fa5df65eb3445b880c7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_0c1067a3475d9edf03680d458cb402a2c6cd4b45/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="babb25794a7599069d34705038744c5760a9a88c">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_054226dfb645ad2e6e412eaf4fc9d71e2a353781/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1c81fb7600d57bab8d62721cd09dbc43829366e1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_3a883fb7ed83bd442f379340cc02efaa361f5633/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
-        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_a6024506543e66d1c881d4573b350f6b4cb42948/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -561,12 +480,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0b0ab17ff79d9f57156c8858cd24b3233c58a5e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="a76a6983a23788b3689524d4bed763955afbd306">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_42ba1c2dca0c6835b91041114f7118477fba8f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_fce7f5dfe247b060a0d8f5454a97ecacfa2b1f32/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -579,12 +516,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_a2c0e8a38699ab0a6b534a4ca163f6c95a34bc11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_d71a555f21f4e63e38afcf6b74e5c08d9133eef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_84d1ea10cfde3fc5ff9d20622971da5f6fc3c91a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -615,6 +570,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_e3d5ee45f13ed608cb021a394a2e0ca87b99474a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -624,12 +588,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_45647558b971ff0770d2039dd686bdb58bebb8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_89863771bf6539dc1fa14ba4190bf62e84f5892b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_9211af6f2f845058ea1ef3a48146cdd81bcfe37d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bf37375a8a592bd1b55cd07ca2509640181ca46b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/sai/AndroidStudioProjects/Firebasetest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_2996e3241ac53bd398fe12b691d17d7cf283b4eb/classes.dex" />
     </item>
 
 </items>

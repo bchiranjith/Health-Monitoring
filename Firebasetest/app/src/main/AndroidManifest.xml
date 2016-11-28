@@ -107,11 +107,7 @@
             android:label="page" />
         <activity
             android:name=".Kirrakk"
-            android:label="After login" />
-        <activity
-            android:name=".details"
-            android:label="Details" />
-        <activity android:name=".tablet"></activity>
+            android:label="After login"/>
     </application>
 
 </manifest>
