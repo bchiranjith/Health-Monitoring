@@ -122,11 +122,6 @@ public class MainActivity extends AppCompatActivity {
     private ProgressBar pr;
     public void getInfo(View view) throws InterruptedException {
         //prog1 = ProgressDialog.show(this,"Logging in","",true);
-        prog1 = new ProgressDialog(this);
-        prog1.setIndeterminate(true);
-        prog1.setMessage("Logging in");
-        prog1.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-        prog1.show();
         //prog1.show();
         /*Above is progress dialog code.
         * */
@@ -151,6 +146,11 @@ public class MainActivity extends AppCompatActivity {
             bundle.putString("password",b);
         }
         if(!a.isEmpty() && !b.isEmpty()){
+            prog1 = new ProgressDialog(this);
+            prog1.setIndeterminate(true);
+            prog1.setMessage("Logging in");
+            prog1.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+            prog1.show();
             Log.i("exiting","getInfo method");
             Authenticate(a,b);
         }
