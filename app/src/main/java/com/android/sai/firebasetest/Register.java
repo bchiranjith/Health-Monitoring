@@ -75,11 +75,6 @@ public class Register extends AppCompatActivity {
     }
     private ProgressDialog prog1;
     public void getCred(View v) throws JSONException {
-        prog1 = new ProgressDialog(this);
-        prog1.setIndeterminate(true);
-        prog1.setMessage("Uploading data..");
-        prog1.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-        prog1.show();
         //Bundle b = new Bundle();
         EditText e1=(EditText)findViewById(user);
         EditText e2=(EditText)findViewById(R.id.passs);
@@ -128,6 +123,11 @@ public class Register extends AppCompatActivity {
             bb.putString("sex","female");
         }
         if(!name.isEmpty() && !word.isEmpty() && !no.isEmpty() && !id.isEmpty()){
+            prog1 = new ProgressDialog(this);
+            prog1.setIndeterminate(true);
+            prog1.setMessage("Uploading data..");
+            prog1.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+            prog1.show();
             send2Intent(bb);
         }
     }
